@@ -4,4 +4,3 @@ working on git hub
 
 doing practice
 github
-bitbash
